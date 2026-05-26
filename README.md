@@ -37,6 +37,29 @@ power will read -100 dBm until the first run is made.
 Using the chromatic dispersion factor equation, determine the dispersion of the fiber at 
 1550 nm and set the fiber dispersion parameter accordingly. 
 Using the equations above, determine the dispersion-limited fiber length. 
-<img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
+<!-- First two -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" width="320">
+  <img src="https://github.com/user-attachments/assets/0f792be7-0eb5-475f-afc6-ee68ee3edc2f" width="420">
+</p>
+
+<!-- Second two -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93a86668-619b-4eaa-a8dd-cc6d86877cfd" width="420">
+  <img src="https://github.com/user-attachments/assets/33b1307d-2289-4348-a371-ec400fb4c4a9" width="420">
+</p>
+
+<!-- Third two -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8de0706e-2754-46a7-a2cf-9da4964dde26" width="420">
+  <img src="https://github.com/user-attachments/assets/547322e5-9c74-475c-86be-49b0b2d6afb2" width="420">
+</p>
+
 # Tabulation
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a9b66e8-2cb1-405b-91aa-e1fcb2c9ffd9" width="280">
+  <img src="https://github.com/user-attachments/assets/669a094c-1154-4e1b-a319-966c3d785cba" width="420">
+</p>
+
 # Result
+The dispersion-limited fiber length for the given optical communication system was found to be approximately 10 km. The simulation results showed acceptable BER performance with a clear eye diagram and minimal intersymbol interference. Hence, the system performance was satisfactory and remained within the allowable dispersion limit.
